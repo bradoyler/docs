@@ -172,4 +172,4 @@ Learn more about
 ## Help make AMP faster
 AMP is an open-source effort.
 We need your help to make AMP even faster.
-Learn [how to contribute](/docs/support/contribute.html).
+Learn [how to contribute](/_support/contribute.md).
